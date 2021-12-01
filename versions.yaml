@@ -1,0 +1,9 @@
+# set this to the next training event as YYYY.MM
+# otherwise set as "dev" for development version
+latest: "dev"
+
+# other versions kept here as a reference only
+version: "2021.11"
+  title: "Nov 2021"
+version: "2021.06"
+  title: "Jul 2021"
